@@ -15,7 +15,7 @@
         Boeing Non-Motion Detection
             - Senior Capstone Project @ Seattle University.
  ### You can reach me at
-        ejtarlov@me.com
+        etarlov@seattleu.edu
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
         
