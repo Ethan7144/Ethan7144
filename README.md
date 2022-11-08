@@ -19,3 +19,4 @@
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
 
+![Metrics](/github-metrics.svg)
