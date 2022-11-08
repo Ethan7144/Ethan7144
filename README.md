@@ -2,7 +2,6 @@
 
  ### My name is 
       Ethan Tarlov
- 
 ### My Pronouns are 
         He/Him
  ### 🏫 I am currently attending
