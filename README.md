@@ -18,4 +18,7 @@
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
 
-![Metrics](/github-metrics.svg)
+<details>
+  <summary><sub><sup>Profile Stats</sup></sub></summary>
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</details>
