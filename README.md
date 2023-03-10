@@ -9,10 +9,12 @@
         Bachelors of Science in Computer Science
         4th Year
  ### 🌱 I’m currently taking the class
-        CPSC 4100 Algorithms
+        CPSC 4250 Mobile Software Development
  ### 🔭 I’m currently working on
         Boeing Non-Motion Detection
             - Senior Capstone Project @ Seattle University.
+       Genshin Impact to-do Discord Bot
+            - Personal Project
  ### You can reach me at
         etarlov@seattleu.edu
  ### Connect with me on Linkedin:
