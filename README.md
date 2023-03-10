@@ -7,7 +7,7 @@
  ### 🏫 I am currently attending
         Seattle University
         Bachelors of Science in Computer Science
-        4th Year
+        4th Year 
  ### 🌱 I’m currently taking the class
         CPSC 4250 Mobile Software Development
  ### 🔭 I’m currently working on
