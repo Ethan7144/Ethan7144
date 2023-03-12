@@ -15,6 +15,9 @@
             - Senior Capstone Project @ Seattle University.
        Genshin Impact to-do Discord Bot
             - Personal Project
+       Teammater Finder
+            - Software as a Service Project 
+            - Will take on as side project after class is over.
  ### You can reach me at
         etarlov@seattleu.edu
  ### Connect with me on Linkedin:
