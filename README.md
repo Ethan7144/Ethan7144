@@ -23,10 +23,10 @@
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144)
+
 
 <details>
   <summary><sub><sup>Profile Stats</sup></sub></summary>
-    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+    <img align="center" src="![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144)" alt="Metrics" width="400">
     <img align="center" src="/metrics.plugin.languages.svg" alt="Languages" width="400">
 </details>
