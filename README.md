@@ -23,7 +23,7 @@
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
 
- ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144)
+ ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144&theme=tokyonight&show_icons=true)
  
 <details>
   <summary><sub><sup>Profile Stats</sup></sub></summary>
