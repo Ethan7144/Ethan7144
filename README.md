@@ -27,6 +27,6 @@
 
 <details>
   <summary><sub><sup>Profile Stats</sup></sub></summary>
-    <img align="center" src="![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144)" alt="Metrics" width="400">
+    ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144)
     <img align="center" src="/metrics.plugin.languages.svg" alt="Languages" width="400">
 </details>
