@@ -11,18 +11,17 @@
  ### 🌱 I’m currently taking the class
         CPSC 4250 Mobile Software Development
  ### 🔭 I’m currently working on
-        Boeing Non-Motion Detection
+       Boeing Non-Motion Detection
             - Senior Capstone Project @ Seattle University.
        Genshin Impact to-do Discord Bot
             - Personal Project
        Teammater Finder
-            - Software as a Service Project 
-            - Will take on as side project after class is over.
+            - Personal Project
  ### You can reach me at
         etarlov@seattleu.edu
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
-
+ Teammate Finder: [Teammate Finder](https://teammatefinder.azurewebsites.net)
  ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144&theme=tokyonight&show_icons=true)
  
 <details>
