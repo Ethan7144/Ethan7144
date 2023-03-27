@@ -20,7 +20,7 @@
  ### You can reach me at
         etarlov@seattleu.edu
  ### Connect with me on Linkedin:
- Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
+ Linkedin: [Ethan Tarlov](https://www.linkedin.com/in/ethan-tarlov/)
  ### Check out some of deployed projects:
  Teammate Finder: [Teammate Finder](https://teammatefinder.azurewebsites.net)
 
