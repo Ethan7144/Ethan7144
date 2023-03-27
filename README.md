@@ -22,6 +22,8 @@
  ### Connect with me on Linkedin:
  Linkedin: [EthanTarlov](https://www.linkedin.com/in/ethan-tarlov/)
  Teammate Finder: [Teammate Finder](https://teammatefinder.azurewebsites.net)
+
+ 
  ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144&theme=tokyonight&show_icons=true)
  
 <details>
