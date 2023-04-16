@@ -21,7 +21,7 @@
         etarlov@seattleu.edu
  ### Connect with me on Linkedin:
  Linkedin: [Ethan Tarlov](https://www.linkedin.com/in/ethan-tarlov/)
- ### Check out some of deployed projects:
+ ### Check out some deployed projects:
  Teammate Finder: [Teammate Finder](https://teammatefinder.azurewebsites.net)
 
 ### Github Stats:
