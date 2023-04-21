@@ -17,6 +17,10 @@
             - Personal Project
        Teammater Finder
             - Personal Project
+       BookBounce
+            - Group Mobile Dev Assignment
+       EventTracker
+            - Solo Mobile Dev Assignment
  ### You can reach me at
         etarlov@seattleu.edu
  ### Connect with me on Linkedin:
