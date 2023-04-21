@@ -23,6 +23,7 @@
             - Solo Mobile Dev Assignment
  ### You can reach me at
         etarlov@seattleu.edu
+        ejtarlov@me.com
  ### Connect with me on Linkedin:
  Linkedin: [Ethan Tarlov](https://www.linkedin.com/in/ethan-tarlov/)
  ### Check out some deployed projects:
