@@ -27,4 +27,4 @@
  ### Connect with me on Linkedin:
  Linkedin: [Ethan Tarlov](https://www.linkedin.com/in/ethan-tarlov/)
  ### Check out some deployed projects:
- Teammate Finder: [![Teammate Finder]((https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://teammatefinder.azurewebsites.net)
+ Teammate Finder: [![Teammate Finder](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://teammatefinder.azurewebsites.net)
