@@ -25,6 +25,6 @@
         etarlov@seattleu.edu
         ejtarlov@me.com
  ### Connect with me on Linkedin:
-[![Ethan Tarlov](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/ethan-tarlov/)
+[![Ethan Tarlov](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-tarlov/)
  ### Check out some deployed projects:
  [![Teammate Finder](https://img.shields.io/badge/TeammateFinder-%230175C2.svg?style=for-the-badge&logo=angular&logoColor=red)](https://teammatefinder.azurewebsites.net)
