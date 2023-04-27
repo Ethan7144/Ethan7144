@@ -27,13 +27,4 @@
  ### Connect with me on Linkedin:
  Linkedin: [Ethan Tarlov](https://www.linkedin.com/in/ethan-tarlov/)
  ### Check out some deployed projects:
- Teammate Finder: [Teammate Finder](https://teammatefinder.azurewebsites.net)
-
-### Github Stats:
- ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan7144&theme=tokyonight&show_icons=true)
- 
-<details>
-  <summary><sub><sup>Profile Stats</sup></sub></summary>
-    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-    <img align="center" src="/metrics.plugin.languages.svg" alt="Languages" width="400">
-</details>
+ Teammate Finder: [![Teammate Finder]((https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://teammatefinder.azurewebsites.net)
