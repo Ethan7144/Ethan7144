@@ -11,3 +11,5 @@
  ### Check out one of my deployed projects:
  [![Teammate Finder](https://img.shields.io/badge/TeammateFinder-%230175C2.svg?style=for-the-badge&logo=angular&logoColor=white)](https://teammatefinder.azurewebsites.net)
 
+### Here is everything I have contributed to!
+[![Contributions](https://img.shields.io/badge/Contributed-%230175C2.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/Ethan7144/lists/contributed)
