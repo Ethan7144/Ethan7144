@@ -1,5 +1,5 @@
  ### Who am I? 
- My name is Ethan Tarlov. I am a College Graduate with a Degree in Computer Science On this page, you will find repos for my personal projects, school projects, and other projects I have contributed to. I am interested in Web Development, Mobile Development, Gameplay Programming, and Game Design.
+ My name is Ethan Tarlov. I am a College Graduate with a Degree in Computer Science. On this page, you will find repos for my personal projects, school projects, and other projects I have contributed to. I am interested in Web Development, Mobile Development, Gameplay Programming, and Game Design.
 
  ### How you can reach me:
 [![Ethan Tarlov](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-tarlov/)
