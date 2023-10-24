@@ -7,6 +7,7 @@
  ### 🔭 I’m currently working on
        Personal Projects
             - Daily Coding to keep myself warmed up
+            - Personal Website
  
  ### Check out one of my deployed projects:
  [![Teammate Finder](https://img.shields.io/badge/TeammateFinder-%230175C2.svg?style=for-the-badge&logo=angular&logoColor=white)](https://teammatefinder.azurewebsites.net)
