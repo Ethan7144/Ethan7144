@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-%230175C2.svg?style=for-the-badge&logo=icloud&logoColor=white)](mailto:ejtarlov@me.com)
  ### 🔭 I’m currently working on
        Personal Projects
-            - Personal Website
+            - Daily Coding to keep myself warmed up
  
  ### Check out one of my deployed projects:
  [![Teammate Finder](https://img.shields.io/badge/TeammateFinder-%230175C2.svg?style=for-the-badge&logo=angular&logoColor=white)](https://teammatefinder.azurewebsites.net)
