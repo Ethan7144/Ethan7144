@@ -11,9 +11,9 @@
        WaterTracker!
 
  #### Feel Free to ask me about...
-      Industrial communication protocols
-      Embedded systems and low-level device communication
-      Memory and thread management
+   - Industrial communication protocols
+   - Embedded systems and low-level device communication
+   - Memory and thread management
  
 
 
