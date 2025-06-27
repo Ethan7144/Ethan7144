@@ -8,7 +8,7 @@
  #### 🔭 I’m currently working on
        Canvas @ CIMON! 
        My Personal Website!
-       WaterTracker!
+       My own version of git
 
  #### Feel Free to ask me about...
    - Industrial communication protocols
