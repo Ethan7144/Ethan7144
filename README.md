@@ -1,17 +1,16 @@
  ### Who am I? 
- Hello there! My name is Ethan, and I am currently a Software Engineer on the Gateway team at CIMON Automation. I work on enabling communication between industrial devices and our HMI application, Canvas. My team implements and maintains protocol support (like Modbus), sends and receives frame data, and ensures it integrates seamlessly into the runtime environment.
+ Hello there! My name is Ethan, and I am currently an Embedded Software Engineer on the Home Network Team at TP-Link. I currently am working on the Deco Mesh Wi-Fi system, where I focus on developing and optimizing the software that powers our mesh Wi-Fi products. My team works on some of TP-Link's most popular products, including the Deco Mesh Wi-Fi system, doorbells, and security cameras.
 
   #### How you can reach me:
 [![Ethan Tarlov](https://img.shields.io/badge/Linkedin-%230175C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-tarlov/)
 [![Email](https://img.shields.io/badge/Email-%230175C2.svg?style=for-the-badge&logo=icloud&logoColor=white)](mailto:tarlov.ethan.j@gmail.com)
 
  #### 🔭 I’m currently working on
-       Canvas @ CIMON! 
+       TP-Link Projects!
        My Personal Website!
        Breakout!
 
  #### Feel Free to ask me about...
-   - Industrial communication protocols
    - Embedded systems and low-level device communication
    - Memory and thread management
 
